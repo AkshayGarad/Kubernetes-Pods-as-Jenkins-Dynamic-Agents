@@ -1,5 +1,7 @@
 # Kubernetes Pods as Jenkins Dynamic Agents: Best Practices and Benefits
 
+`![alt text](image_url)`
+
 ## Introduction
 Kubernetes (K8s) has revolutionized the way we deploy, scale, and manage containerized applications. Its ability to orchestrate containers efficiently makes it an ideal platform for running Jenkins, a popular continuous integration and delivery (CI/CD) tool. In the context of Jenkins, Kubernetes pods can be utilized as dynamic agents, enabling scalable and flexible build environments. This README file aims to explain the concept of using Kubernetes pods as Jenkins dynamic agents and highlight the best practices for leveraging this powerful combination.
 
